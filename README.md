@@ -1,7 +1,7 @@
-### 5G-OMLOX_NotHalt
+# 5G-OMLOX_NotHalt
 A PoC for using Geo-fences in Omlox localized area to dynamically control the behavoiur of 5G connected devices
 
-# Introduction
+## Introduction
 
 This python program use the Websocket protocol as a client to fetch data from a locaization system. WebSocket protocol is a TCP - based network protocol which is designed to establish bidirectional connection between a
 web application and a WebSocket server or a web server that support websockets.
